@@ -1,12 +1,12 @@
-import Aside from "./Aside";
-import Content from "./Content";
+import Aside from "./Aside/Aside";
+import Profile from "./Profile/Profile";
 import classes from './Main.module.css';
 
 const Main = () => {
   return (
     <main className={classes.main}>
       <Aside />
-      <Content />
+      <Profile />
     </main>
   );
 }
