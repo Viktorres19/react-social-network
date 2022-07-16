@@ -1,0 +1,9 @@
+.content {
+    width: 80%;
+    background-color: yellowgreen;
+}
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+}

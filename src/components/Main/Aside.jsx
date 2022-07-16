@@ -1,7 +1,9 @@
-const Footer = () => {
+import classes from './Aside.module.css';
+
+const Aside = () => {
   return (
-    <aside className="aside">
-      <nav className="asideNav">
+    <aside className={classes.aside}>
+      <nav>
         <ul>
           <li><a href="#">Profile</a></li>
           <li><a href="#">Messages</a></li>
@@ -14,4 +16,4 @@ const Footer = () => {
   );
 }
 
-export default Footer;
+export default Aside;
