@@ -5,7 +5,7 @@ const Content = () => {
         <img src="https://thumbs.dreamstime.com/b/palm-trees-silhouettes-tropical-beach-sunset-modern-vintage-colors-139094492.jpg" alt="hero"/>
       </div>
       <div>
-        My posts
+        My posts ()
         <div>
           New post
         </div>
