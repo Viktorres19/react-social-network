@@ -1,7 +1,9 @@
+import classes from './Content.module.css';
+
 const Content = () => {
   return (
-    <section className="content">
-      <div className="hero">
+    <section className={classes.content}>
+      <div className={classes.hero}>
         <img src="https://thumbs.dreamstime.com/b/palm-trees-silhouettes-tropical-beach-sunset-modern-vintage-colors-139094492.jpg" alt="hero"/>
       </div>
       <div>
