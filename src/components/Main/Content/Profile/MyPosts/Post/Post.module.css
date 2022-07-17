@@ -1,0 +1,9 @@
+.post {
+    background-color: #f7f7f7;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.post:last-child {
+    margin-bottom: 0;
+}

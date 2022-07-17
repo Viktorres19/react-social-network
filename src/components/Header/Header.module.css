@@ -1,5 +1,6 @@
 .header {
-
+    background-color: #fff;
+    border-bottom: 4px solid #f9f9f9;
 }
 .logo {
     width: 100px;
