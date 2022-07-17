@@ -8,11 +8,14 @@
 .aside ul {
     list-style-type: none;
 }
-.aside a {
+a {
     color: inherit;
     font-weight: 700;
     text-decoration: none;
 }
-.aside a:hover {
+.active {
+    color: rebeccapurple;
+}
+a:hover {
     text-decoration: underline;
 }
