@@ -1,0 +1,22 @@
+.dialogs {
+    display: flex;
+    flex-wrap: wrap;
+}
+.dialogs .h2 {
+    width: 100%;
+}
+.convs {
+    width: 20%;
+}
+
+.conv {
+    padding: 10px;
+}
+
+.messages {
+    width: 80%;
+}
+
+.message {
+
+}
