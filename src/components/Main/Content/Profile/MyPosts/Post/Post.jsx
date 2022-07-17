@@ -2,7 +2,7 @@ import classes from './Post.module.css';
 
 const Post = (props) => {
   return (
-    <div>{props.name} {props.age}</div>
+    <div className={classes.post}>{props.name} {props.age}</div>
   );
 }
 
