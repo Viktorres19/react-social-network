@@ -5,7 +5,7 @@ import Avatar from "./Avatar/Avatar";
 
 const Profile = () => {
   return (
-    <section className={classes.content}>
+    <section className={classes.profile}>
       <Hero />
       <Avatar />
       <MyPosts />

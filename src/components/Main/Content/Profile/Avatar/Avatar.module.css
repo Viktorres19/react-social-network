@@ -1,5 +1,18 @@
+.avatar {
+    display: flex;
+    align-items: center;
+}
+
 .avatar img {
     width: 100px;
     height: auto;
     display: block;
+}
+
+.h3 {
+    margin-left: 20px;
+    border-radius: 20%;
+    background-color: #f7f7f7;
+    padding: 5px;
+    border: 1px solid rebeccapurple;
 }
