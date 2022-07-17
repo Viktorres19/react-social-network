@@ -10,6 +10,7 @@ const Content = () => {
   return (
     <section className={classes.content}>
       <Routes>
+
         <Route path="/" element={<Profile />} />
         <Route path="dialogs" element={<Dialogs />} />
         <Route path="news" element={<News />} />
