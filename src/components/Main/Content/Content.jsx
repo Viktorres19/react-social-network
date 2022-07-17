@@ -12,10 +12,10 @@ const Content = () => {
       <Routes>
 
         <Route path="/" element={<Profile />} />
-        <Route path="dialogs" element={<Dialogs />} />
-        <Route path="news" element={<News />} />
-        <Route path="music" element={<Music />} />
-        <Route path="settings" element={<Settings />} />
+        <Route path="/dialogs" element={<Dialogs />} />
+        <Route path="/news" element={<News />} />
+        <Route path="/music" element={<Music />} />
+        <Route path="/settings" element={<Settings />} />
       </Routes>
     </section>
   );
